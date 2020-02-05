@@ -1,0 +1,50 @@
+From:	Jay Colond
+Sent:	Sunday, February 2, 2020 9:46 AM
+To:	allison.cantwell@colostate.edu
+Subject:	RE: 2012 Portrait of the Disengaged study
+
+Good morning Professor Cantwell,
+
+Please pardon the interruption; I feel bad about being a surprise service request.
+
+I realize I didn’t give a lot of context to Professor Brint. In case it’s helpful background I can share a little 
+information on our course. My professor is interested in replicability of quantitative methods and I 
+believe is helping us get socialized into an ideal of community data. He’s also given us the opportunity to 
+work in areas of interest for us, and I’m hoping that this might guide my use of UCUES/SERU data in my 
+project.
+
+I believe that I’ll be able to get access to the UCUES data. If you have time, I’d be grateful for your advice 
+on where to obtain any other datasets you all used. If there’s any analysis code at all you would be in a 
+position to share, I’d also be grateful. 
+
+Sincerely,
+
+Jay Colond
+
+SNIP
+
+
+
+ 
+From: Jay Colond <jcolond@ucmerced.edu> 
+Sent: Saturday, February 1, 2020 5:02 PM 
+To: Steven G Brint <steven.brint@ucr.edu> 
+Subject: 2012 Portrait of the Disengaged study 
+ 
+Good evening Professor Brint,
+ 
+I'm a first-year sociology graduate student at the University of California - Merced. For class, our 
+statistics professor has asked we interpret and build on existing quantitative studies in our areas of 
+interest. I'm interested in characterizing the experience of undergraduates by Asian ethnicity.
+ 
+Specifically, he's asked that we learn how to best replicate and modify analyses and code. (We're 
+studying Stata, Jupyter, and potentially R).
+ 
+In researching UCUES work, I read your Portrait of the Disengaged. I’m curious about how you used 
+UCUES to operationalize student disengagement, technically. I realize it’s been a number of years, but 
+might it be possible to get a copy of your analysis code and original data?
+ 
+Sincerely,
+ 
+Jay Colond
+ 
